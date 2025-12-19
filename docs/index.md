@@ -12,4 +12,4 @@ Welcome. This site hosts selected chapter notes and companion posts.
 - [Is Your "Clean" Kotlin Code Secretly Slow?](is-your-clean-kotlin-code-secretly-slow.md)
 
 ## Get the book
-- Amazon: https://www.amazon.com/dp/B0G8H4QX2L/
+- Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
