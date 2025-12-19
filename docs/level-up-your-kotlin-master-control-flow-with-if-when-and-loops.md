@@ -128,3 +128,6 @@ By internalizing and leveraging these control flow mechanisms, you'll write more
 ## What to read next
 - Go back to the [home page](https://easy-mind-read.github.io/kotlin-read-the-first-pages/)
 
+## Get the book
+- Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
+- ![kotlin-read-the-first_625x1000.jpg](kotlin-read-the-first_625x1000.jpg)

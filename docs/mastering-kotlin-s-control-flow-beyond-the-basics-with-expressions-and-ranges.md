@@ -242,3 +242,8 @@ index.md
 **[Get the full Easy Mind guide on Amazon](https://www.amazon.com/dp/B0G8H4QX2L/)**
 
 [← Back to Home](https://easy-mind-read.github.io/kotlin-read-the-first-pages/)
+
+
+## Get the book
+- Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
+- ![kotlin-read-the-first_625x1000.jpg](kotlin-read-the-first_625x1000.jpg)
