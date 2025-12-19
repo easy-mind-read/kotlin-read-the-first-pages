@@ -10,6 +10,7 @@ Welcome. This site hosts selected chapter notes and companion posts.
 
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
+- ![kotlin-read-the-first_625x1000.jpg](kotlin-read-the-first_625x1000.jpg)
 
 ## Articles
 - [Is Your "Clean" Kotlin Code Secretly Slow?](is-your-clean-kotlin-code-secretly-slow.md)
@@ -21,3 +22,4 @@ Welcome. This site hosts selected chapter notes and companion posts.
 
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
+- ![kotlin-read-the-first_625x1000.jpg](kotlin-read-the-first_625x1000.jpg)
