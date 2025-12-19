@@ -106,4 +106,5 @@ This post is a sample from a chapter in **Kotlin Read the First, Easy Mind**. If
 ---
 
 ## What to read next
-- Go back to the [home page](/)
+- Go back to the [home page](https://easy-mind-read.github.io/kotlin-read-the-first-pages/)
+
