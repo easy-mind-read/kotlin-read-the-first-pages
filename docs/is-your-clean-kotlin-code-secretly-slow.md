@@ -101,10 +101,9 @@ If `expensiveScore()` were a network call to an API with a rate limit:
 
 This post is a sample from a chapter in **Kotlin Read the First, Easy Mind**. If you enjoy this practical, no-fluff approach to learning, you can get the full book here:
 
-- **Amazon**: [https://www.amazon.com/dp/B0G8H4QX2L/](https://www.amazon.com/dp/B0G8H4QX2L/)
+- **Amazon**: [Get PreView](https://www.amazon.com/dp/B0G8H4QX2L/)
 
 ---
 
 ## What to read next
 - Go back to the [home page](/)
-
