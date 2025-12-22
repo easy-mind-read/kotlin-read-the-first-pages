@@ -198,6 +198,7 @@ By internalizing these Kotlin control flow paradigms, you'll write more expressi
 
 
 
+
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
 - ![kotlin-read-the-first_625x1000.jpg](kotlin-read-the-first_625x1000.jpg)

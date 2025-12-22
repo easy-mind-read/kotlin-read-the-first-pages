@@ -11,7 +11,7 @@ Welcome. This site hosts selected chapter notes and companion posts.
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
 - ![kotlin-read-the-first_625x1000.jpg](kotlin-read-the-first_625x1000.jpg)
--
+- 
 ## Articles
 - [Is Your "Clean" Kotlin Code Secretly Slow?](is-your-clean-kotlin-code-secretly-slow.md)
 - [kotlin-s-control-flow-ditch-the-boilerplate-embrace-expressiveness](kotlin-s-control-flow-ditch-the-boilerplate-embrace-expressiveness.md)
@@ -23,3 +23,4 @@ Welcome. This site hosts selected chapter notes and companion posts.
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
 - ![kotlin-read-the-first_625x1000.jpg](kotlin-read-the-first_625x1000.jpg)
+- [Say Goodbye to NullPointerExceptions: Mastering Kotlin's Null-Safety Features](https://easy-mind-read.github.io/kotlin-read-the-first-pages/say-goodbye-to-nullpointerexceptions-mastering-kotlin-s-null-safety-features/)
