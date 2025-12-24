@@ -2,6 +2,8 @@ INSTAGRAM_MEDIA_IDS:
 - '18088967773956392'
 - '17863398024551473'
 - '18077287649224417'
+YOUTUBE_VIDEO_ID: c6M8YHSHAl8
+YOUTUBE_VIDEO_URL: https://youtube.com/shorts/c6M8YHSHAl8
 description: 'Tired of verbose, imperative control flow in your Kotlin code? Discover
   how Kotlin''s expression-oriented design transforms `if`, `when`, and `try-catch`
   into powerful value-returning constructs, simplifying your logic and boosting readability.
