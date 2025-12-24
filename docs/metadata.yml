@@ -1,9 +1,12 @@
-description: "Are you writing verbose, imperative Kotlin? Learn how Kotlin's expression-oriented\
-  \ control flow (`if`, `when`, `for`) can instantly clean up your code, making it\
-  \ more concise and functional. This powerful approach is key to writing clean, maintainable,\
-  \ and high-performance applications.\n\U0001F525 This is just 1% of the tips. Master\
-  \ the full interview patterns, ace your FAANG interviews, and get promoted faster\
-  \ by becoming a Kotlin expert with my book: https://www.amazon.com/dp/B0G8H4QX2L/"
+YOUTUBE_VIDEO_ID: fA-m0CZCZHM
+YOUTUBE_VIDEO_URL: https://youtube.com/shorts/fA-m0CZCZHM
+description: 'Are you writing verbose, imperative Kotlin? Learn how Kotlin''s expression-oriented
+  control flow (`if`, `when`, `for`) can instantly clean up your code, making it more
+  concise and functional. This powerful approach is key to writing clean, maintainable,
+  and high-performance applications.
+
+  🔥 This is just 1% of the tips. Master the full interview patterns, ace your FAANG
+  interviews, and get promoted faster by becoming a Kotlin expert with my book: https://www.amazon.com/dp/B0G8H4QX2L/'
 insta_videos:
 - instagram_1.mp4
 - instagram_2.mp4
