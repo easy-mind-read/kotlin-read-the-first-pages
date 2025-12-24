@@ -1,3 +1,7 @@
+INSTAGRAM_MEDIA_IDS:
+- '17932190544015199'
+- '18051768074398424'
+- '17987379380874814'
 YOUTUBE_VIDEO_ID: 1BMdEDqF9mU
 YOUTUBE_VIDEO_URL: https://youtube.com/shorts/1BMdEDqF9mU
 description: 'Are you writing verbose, clunky Kotlin control flow like it''s Java?
