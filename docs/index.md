@@ -6,10 +6,6 @@ description: "Practical Kotlin notes and chapters for beginners."
 
 # Kotlin Read the First — Easy Mind Series
 
-- [Taming Kotlin Boilerplate: Data Classes, Enums, and Sealed Classes Demystified](taming-kotlin-boilerplate-data-classes-enums-and-sealed-classes-demystified.md)
-
-- [Kotlin's Power Trio: Master Data Classes, Enums, and Sealed Classes for Cleaner Code](kotlin-s-power-trio-master-data-classes-enums-and-sealed-classes-for-cleaner-code.md)
-
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
 - [![kotlin-read-the-first_625x1000.jpg](kotlin-read-the-first_625x1000.jpg)](https://www.amazon.com/dp/B0G8H4QX2L/)
