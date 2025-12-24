@@ -1,0 +1,19 @@
+description: "Are you writing verbose, imperative Kotlin? Learn how Kotlin's expression-oriented\
+  \ control flow (`if`, `when`, `for`) can instantly clean up your code, making it\
+  \ more concise and functional. This powerful approach is key to writing clean, maintainable,\
+  \ and high-performance applications.\n\U0001F525 This is just 1% of the tips. Master\
+  \ the full interview patterns, ace your FAANG interviews, and get promoted faster\
+  \ by becoming a Kotlin expert with my book: https://www.amazon.com/dp/B0G8H4QX2L/"
+insta_videos:
+- instagram_1.mp4
+- instagram_2.mp4
+- instagram_3.mp4
+keywords: '#Kotlin #KotlinProgramming #SystemDesign #SoftwareEngineering #TechInterview
+  #CodingInterview #FAANG #LeetCode #CleanCode #FunctionalProgramming #KotlinTutorial
+  #AndroidDev #ProgrammingTips #SeniorDeveloper #SoftwareDeveloper #KotlinIf #KotlinWhen
+  #Programming'
+title: 'Stop Wasting Time: Kotlin Control Flow (Senior Dev Secret!)'
+twitter_videos:
+- twitter1.mp4
+- twitter2.mp4
+youtube_video: video.mp4
