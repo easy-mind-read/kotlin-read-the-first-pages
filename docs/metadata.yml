@@ -1,10 +1,16 @@
-description: "Tired of verbose, imperative control flow in your Kotlin code? Discover\
-  \ how Kotlin's expression-oriented design transforms `if`, `when`, and `try-catch`\
-  \ into powerful value-returning constructs, simplifying your logic and boosting\
-  \ readability. Learn the senior dev trick to writing cleaner, more functional code\
-  \ that truly expresses intent.\n\U0001F525 This is just 1% of the tips. Master the\
-  \ full interview patterns and advanced Kotlin techniques needed to pass FAANG interviews,\
-  \ get promoted, and accelerate your career in my book: https://www.amazon.com/dp/B0G8H4QX2L/"
+INSTAGRAM_MEDIA_IDS:
+- '18088967773956392'
+- '17863398024551473'
+- '18077287649224417'
+description: 'Tired of verbose, imperative control flow in your Kotlin code? Discover
+  how Kotlin''s expression-oriented design transforms `if`, `when`, and `try-catch`
+  into powerful value-returning constructs, simplifying your logic and boosting readability.
+  Learn the senior dev trick to writing cleaner, more functional code that truly expresses
+  intent.
+
+  🔥 This is just 1% of the tips. Master the full interview patterns and advanced Kotlin
+  techniques needed to pass FAANG interviews, get promoted, and accelerate your career
+  in my book: https://www.amazon.com/dp/B0G8H4QX2L/'
 insta_videos:
 - instagram_1.mp4
 - instagram_2.mp4
