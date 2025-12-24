@@ -1,31 +1,19 @@
-INSTAGRAM_MEDIA_IDS:
-- '17932190544015199'
-- '18051768074398424'
-- '17987379380874814'
-YOUTUBE_VIDEO_ID: 1BMdEDqF9mU
-YOUTUBE_VIDEO_URL: https://youtube.com/shorts/1BMdEDqF9mU
-description: 'Are you writing verbose, clunky Kotlin control flow like it''s Java?
-  Discover how Kotlin''s expressive `if`, `when`, and loops revolutionize your code,
-  leading to cleaner, more functional solutions. Many languages make you assign values
-  imperatively, but Kotlin treats control flow as expressions, drastically simplifying
-  common patterns.
-
-  🔥 This is just 1% of the tips. Master the full interview patterns in my book: https://www.amazon.com/dp/B0G8H4QX2L/
-
-  Stop struggling with complex coding challenges and system design hurdles. My book
-  provides the battle-tested strategies and deep dive into Kotlin, data structures,
-  algorithms, and system design that interviewers look for. Land that dream job, secure
-  your promotion, and become an indispensable senior engineer faster than ever before.
-  Elevate your career and ace every technical interview with confidence!'
+description: "Tired of verbose, imperative control flow in your Kotlin code? Discover\
+  \ how Kotlin's expression-oriented design transforms `if`, `when`, and `try-catch`\
+  \ into powerful value-returning constructs, simplifying your logic and boosting\
+  \ readability. Learn the senior dev trick to writing cleaner, more functional code\
+  \ that truly expresses intent.\n\U0001F525 This is just 1% of the tips. Master the\
+  \ full interview patterns and advanced Kotlin techniques needed to pass FAANG interviews,\
+  \ get promoted, and accelerate your career in my book: https://www.amazon.com/dp/B0G8H4QX2L/"
 insta_videos:
 - instagram_1.mp4
 - instagram_2.mp4
 - instagram_3.mp4
-keywords: '#Kotlin #SystemDesign #LeetCode #FAANG #Programming #SoftwareDevelopment
-  #CodingInterview #KotlinTutorial #SeniorDeveloper #TechInterview #Algorithms #DataStructures
-  #CodingTips #SoftwareEngineering #InterviewPreparation #JavaDeveloper #KotlinControlFlow
-  #CleanCode #SoftwareArchitecture'
-title: 'Stop Writing Ugly Kotlin: Senior Dev''s Control Flow Secret!'
+keywords: '#Kotlin #KotlinTutorial #KotlinControlFlow #KotlinIfExpression #KotlinWhen
+  #ProgrammingTips #SoftwareDevelopment #SeniorDeveloper #InterviewPrep #CodingInterview
+  #FAANG #SystemDesign #LeetCode #CleanCode #FunctionalProgramming #DeveloperTips
+  #TechInterview #BackendDevelopment #SoftwareEngineer'
+title: 'Kotlin Interview Secret: Stop Writing `var` & `if` Like This!'
 twitter_videos:
 - twitter1.mp4
 - twitter2.mp4
