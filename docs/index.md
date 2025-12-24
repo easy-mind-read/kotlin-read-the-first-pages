@@ -8,10 +8,11 @@ description: "Practical Kotlin notes and chapters for beginners."
 
 Welcome. This site hosts selected chapter notes and companion posts.
 
+- [Beyond the Basics: Mastering Data Classes, Enums, and Sealed Classes in Kotlin](beyond-the-basics-mastering-data-classes-enums-and-sealed-classes-in-kotlin.md)
+
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
 - [![kotlin-read-the-first_625x1000.jpg](kotlin-read-the-first_625x1000.jpg)](https://www.amazon.com/dp/B0G8H4QX2L/)
-- 
 ## Articles 
 - [Is Your "Clean" Kotlin Code Secretly Slow?](is-your-clean-kotlin-code-secretly-slow.md)
 - [kotlin-s-control-flow-ditch-the-boilerplate-embrace-expressiveness](kotlin-s-control-flow-ditch-the-boilerplate-embrace-expressiveness.md)
@@ -21,6 +22,8 @@ Welcome. This site hosts selected chapter notes and companion posts.
 - [Say Goodbye to NullPointerExceptions: Mastering Kotlin's Null-Safety Features](https://easy-mind-read.github.io/kotlin-read-the-first-pages/say-goodbye-to-nullpointerexceptions-mastering-kotlin-s-null-safety-features/)
 - [Mastering Null-Safety in Kotlin: Your Guide to Avoiding Billion-Dollar Mistakes](https://easy-mind-read.github.io/kotlin-read-the-first-pages/mastering-null-safety-in-kotlin-your-guide-to-avoiding-billion-dollar-mistakes/)
  
+
+- [Beyond the Basics: Mastering Data Classes, Enums, and Sealed Classes in Kotlin](beyond-the-basics-mastering-data-classes-enums-and-sealed-classes-in-kotlin.md)
 
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
