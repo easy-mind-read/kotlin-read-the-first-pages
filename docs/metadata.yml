@@ -1,12 +1,18 @@
+YOUTUBE_VIDEO_ID: FTyV0drGqW0
+YOUTUBE_VIDEO_URL: https://youtube.com/shorts/FTyV0drGqW0
 description: 'Discover how Kotlin''s expressive control flow simplifies your code
+
   with ''if'' as an expression. Write cleaner, more functional code effortlessly!
+
   Grab more Kotlin insights here: https://www.amazon.com/dp/B0G8H4QX2L/'
 insta_videos:
 - instagram_1.mp4
 - instagram_2.mp4
 - instagram_3.mp4
-keywords: Kotlin, Control Flow, Kotlin if expression, Kotlin when, Clean Code, Functional
+keywords: 'Kotlin, Control Flow, Kotlin if expression, Kotlin when, Clean Code, Functional
+
   Programming, Android Development, Programming, Coding Tips, Software Development,
-  Kotlin Tutorial, Kotlin Basics, Code Optimization, Programming Languages
+
+  Kotlin Tutorial, Kotlin Basics, Code Optimization, Programming Languages'
 title: Kotlin `if` is an Expression?! Clean Code Tips!
 youtube_video: video.mp4
