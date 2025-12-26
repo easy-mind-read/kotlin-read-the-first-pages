@@ -25,6 +25,7 @@ description: "Practical Kotlin notes and chapters for beginners."
 - [Kotlin's Power Trio: Master Data Classes, Enums, and Sealed Classes for Cleaner Code](kotlin-s-power-trio-master-data-classes-enums-and-sealed-classes-for-cleaner-code.md)
 - [Chapter 8 Guide](chapter-8-guide.md)
 - [Streamline Your Kotlin: A Deep Dive into Data Classes, Enums, and Sealed Classes](streamline-your-kotlin-a-deep-dive-into-data-classes-enums-and-sealed-classes.md)
+- [Unleash the Power of Your Data: Mastering Kotlin's Collection Filtering Operations](unleash-the-power-of-your-data-mastering-kotlin-s-collection-filtering-operations.md)
 
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
