@@ -1,22 +1,19 @@
-YOUTUBE_VIDEO_ID: NHhZWyOej3Q
-YOUTUBE_VIDEO_URL: https://youtube.com/shorts/NHhZWyOej3Q
-description: 'Are your Kotlin `if-else` and `switch` statements making your code verbose
-  and hard to read? Learn how Kotlin''s expressive control flow, treating constructs
-  as expressions, radically simplifies code and boosts readability.
-
-  This video uncovers a fundamental concept for writing cleaner, more efficient Kotlin.
-  To truly master the interview patterns, ace your next System Design interview, land
-  that dream FAANG job, or accelerate your promotion to Senior/Staff Engineer, you
-  need a holistic understanding of advanced techniques and strategies. 🔥 This is just
-  1% of the tips. Master the full interview patterns in my book: https://www.amazon.com/dp/B0G8H4QX2L/'
+description: "Tired of writing repetitive Kotlin code? Boilerplate for common operations,\
+  \ logging, or serialization slows you down and introduces bugs. Discover Kotlin\
+  \ Symbol Processing (KSP) to automatically generate custom extension functions at\
+  \ compile time! \U0001F680 Streamline your codebase, boost productivity, ensure\
+  \ consistency, and eliminate manual errors. This is how you automate Kotlin development\
+  \ magic! Learn to leverage KSP for compile-time code generation and build cleaner,\
+  \ faster, and more maintainable applications. Ready to master KSP and unlock its\
+  \ full potential? Dive deeper with the ultimate guide: 'Advanced Kotlin Development'\
+  \ available now on Amazon: https://www.amazon.com/dp/B0G8H4QX2L/"
 insta_videos:
 - instagram_1.mp4
 - instagram_2.mp4
-- instagram_3.mp4
-keywords: '#Kotlin #SystemDesign #CodingInterview #FAANG #LeetCode #SoftwareEngineering
-  #Programming #KotlinTutorial #SeniorDeveloper #CareerGrowth #KotlinTips #SoftwareDevelopment'
-title: Stop Writing Ugly Kotlin! The Senior Dev's Control Flow Trick
+keywords: '#Kotlin, #KSP, #CodeGeneration, #Boilerplate, #KotlinExtensions, #CompileTime,
+  #Automation, #AndroidDev, #SoftwareDevelopment, #Programming, #CleanCode, #Productivity,
+  #SystemDesign, #DeveloperTools, #KotlinProgramming'
+title: 'Kotlin KSP: Generate Extensions & DELETE Boilerplate FOREVER!'
 twitter_videos:
 - twitter1.mp4
-- twitter2.mp4
 youtube_video: video.mp4
