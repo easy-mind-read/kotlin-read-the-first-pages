@@ -26,6 +26,8 @@ description: "Practical Kotlin notes and chapters for beginners."
 - [Chapter 8 Guide](chapter-8-guide.md)
 - [Streamline Your Kotlin: A Deep Dive into Data Classes, Enums, and Sealed Classes](streamline-your-kotlin-a-deep-dive-into-data-classes-enums-and-sealed-classes.md)
 - [Unleash the Power of Your Data: Mastering Kotlin's Collection Filtering Operations](unleash-the-power-of-your-data-mastering-kotlin-s-collection-filtering-operations.md)
+- [Generate Kotlin Extensions Automatically: Harnessing KSP for Compile-Time Code Magic](generate-kotlin-extensions-automatically-harnessing-ksp-for-compile-time-code-magic.md)
+- [Building Robust, Type-Safe Operations with Kotlin Sealed Classes and `when`](building-robust-type-safe-operations-with-kotlin-sealed-classes-and-when.md)
 
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)
