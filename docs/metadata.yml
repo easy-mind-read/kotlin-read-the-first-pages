@@ -1,12 +1,13 @@
-description: "Tired of writing repetitive Kotlin code? Boilerplate for common operations,\
-  \ logging, or serialization slows you down and introduces bugs. Discover Kotlin\
-  \ Symbol Processing (KSP) to automatically generate custom extension functions at\
-  \ compile time! \U0001F680 Streamline your codebase, boost productivity, ensure\
-  \ consistency, and eliminate manual errors. This is how you automate Kotlin development\
-  \ magic! Learn to leverage KSP for compile-time code generation and build cleaner,\
-  \ faster, and more maintainable applications. Ready to master KSP and unlock its\
-  \ full potential? Dive deeper with the ultimate guide: 'Advanced Kotlin Development'\
-  \ available now on Amazon: https://www.amazon.com/dp/B0G8H4QX2L/"
+THREADS_MEDIA_IDS:
+- '18434044390129136'
+description: 'Tired of writing repetitive Kotlin code? Boilerplate for common operations,
+  logging, or serialization slows you down and introduces bugs. Discover Kotlin Symbol
+  Processing (KSP) to automatically generate custom extension functions at compile
+  time! 🚀 Streamline your codebase, boost productivity, ensure consistency, and eliminate
+  manual errors. This is how you automate Kotlin development magic! Learn to leverage
+  KSP for compile-time code generation and build cleaner, faster, and more maintainable
+  applications. Ready to master KSP and unlock its full potential? Dive deeper with
+  the ultimate guide: ''Advanced Kotlin Development'' available now on Amazon: https://www.amazon.com/dp/B0G8H4QX2L/'
 insta_videos:
 - instagram_1.mp4
 - instagram_2.mp4
