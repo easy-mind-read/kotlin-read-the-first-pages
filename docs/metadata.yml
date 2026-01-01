@@ -1,5 +1,7 @@
 THREADS_MEDIA_IDS:
 - '18434044390129136'
+YOUTUBE_VIDEO_ID: TkSS2jfckEE
+YOUTUBE_VIDEO_URL: https://youtube.com/shorts/TkSS2jfckEE
 description: 'Tired of writing repetitive Kotlin code? Boilerplate for common operations,
   logging, or serialization slows you down and introduces bugs. Discover Kotlin Symbol
   Processing (KSP) to automatically generate custom extension functions at compile
