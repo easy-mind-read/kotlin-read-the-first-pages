@@ -1,20 +1,26 @@
-description: 'Is your Kotlin code riddled with unexpected state changes, elusive bugs,
-  or security vulnerabilities from user input? You''re not alone. Many developers
-  overlook the foundational power of Kotlin''s immutability (`val` vs `var`) and secure
-  I/O practices, leading to fragile applications. In this video, we''ll expose how
-  mastering these ''basic'' concepts is the *real* secret to building bulletproof,
-  scalable, and maintainable systems, using real-world examples from a financial transaction
-  system. Stop chasing bugs and start writing robust Kotlin today! For a comprehensive
-  guide to truly mastering Kotlin development, check out the book on Amazon: https://www.amazon.com/dp/B0G8H4QX2L/'
+INSTAGRAM_MEDIA_IDS:
+- '18076159250018602'
+- '17858443566578262'
+INSTAGRAM_UPLOAD_STATUS: COMPLETED
+THREADS_MEDIA_IDS:
+- '18434044390129136'
+YOUTUBE_VIDEO_ID: TkSS2jfckEE
+YOUTUBE_VIDEO_URL: https://youtube.com/shorts/TkSS2jfckEE
+description: 'Tired of writing repetitive Kotlin code? Boilerplate for common operations,
+  logging, or serialization slows you down and introduces bugs. Discover Kotlin Symbol
+  Processing (KSP) to automatically generate custom extension functions at compile
+  time! 🚀 Streamline your codebase, boost productivity, ensure consistency, and eliminate
+  manual errors. This is how you automate Kotlin development magic! Learn to leverage
+  KSP for compile-time code generation and build cleaner, faster, and more maintainable
+  applications. Ready to master KSP and unlock its full potential? Dive deeper with
+  the ultimate guide: ''Advanced Kotlin Development'' available now on Amazon: https://www.amazon.com/dp/B0G8H4QX2L/'
 insta_videos:
 - instagram_1.mp4
 - instagram_2.mp4
-- instagram_3.mp4
-keywords: Kotlin, System Design, Immutability, Val Var, Safe I/O, Kotlin Tutorial,
-  Programming, Software Development, Clean Code, Robust Apps, Kotlin Tips, Backend
-  Development, Android Development, Software Engineering, Coding
-title: STOP Building Fragile Kotlin Apps! Master Immutability & Safe I/O
+keywords: '#Kotlin, #KSP, #CodeGeneration, #Boilerplate, #KotlinExtensions, #CompileTime,
+  #Automation, #AndroidDev, #SoftwareDevelopment, #Programming, #CleanCode, #Productivity,
+  #SystemDesign, #DeveloperTools, #KotlinProgramming'
+title: 'Kotlin KSP: Generate Extensions & DELETE Boilerplate FOREVER!'
 twitter_videos:
 - twitter1.mp4
-- twitter2.mp4
 youtube_video: video.mp4
