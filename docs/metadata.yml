@@ -1,26 +1,24 @@
-INSTAGRAM_MEDIA_IDS:
-- '18076159250018602'
-- '17858443566578262'
-INSTAGRAM_UPLOAD_STATUS: COMPLETED
-THREADS_MEDIA_IDS:
-- '18434044390129136'
-YOUTUBE_VIDEO_ID: TkSS2jfckEE
-YOUTUBE_VIDEO_URL: https://youtube.com/shorts/TkSS2jfckEE
-description: 'Tired of writing repetitive Kotlin code? Boilerplate for common operations,
-  logging, or serialization slows you down and introduces bugs. Discover Kotlin Symbol
-  Processing (KSP) to automatically generate custom extension functions at compile
-  time! 🚀 Streamline your codebase, boost productivity, ensure consistency, and eliminate
-  manual errors. This is how you automate Kotlin development magic! Learn to leverage
-  KSP for compile-time code generation and build cleaner, faster, and more maintainable
-  applications. Ready to master KSP and unlock its full potential? Dive deeper with
-  the ultimate guide: ''Advanced Kotlin Development'' available now on Amazon: https://www.amazon.com/dp/B0G8H4QX2L/'
+description: 'Tired of unexpected bugs, state changes, or insecure input crashing
+  your Kotlin apps? You''re not alone! This video uncovers why mastering Kotlin''s
+  core building blocks is CRITICAL for robust, secure, and maintainable code. We go
+  beyond basic syntax, exploring the power of `val` vs. `var` for immutability, safe
+  I/O techniques, type inference, and secure string templates – all demonstrated through
+  a real-world financial transaction system scenario. Learn to prevent those ''insidious
+  bugs'' that stem from weak fundamentals and build applications that stand the test
+  of time and threats.
+
+  For the ultimate deep dive into Kotlin mastery, from fundamentals to advanced patterns,
+  grab your copy of ''Beyond Syntax: Crafting Robust Kotlin Apps'' on Amazon: https://www.amazon.com/dp/B0G8H4QX2L/
+  It''s your complete guide to writing truly exceptional Kotlin code!'
 insta_videos:
 - instagram_1.mp4
 - instagram_2.mp4
-keywords: '#Kotlin, #KSP, #CodeGeneration, #Boilerplate, #KotlinExtensions, #CompileTime,
-  #Automation, #AndroidDev, #SoftwareDevelopment, #Programming, #CleanCode, #Productivity,
-  #SystemDesign, #DeveloperTools, #KotlinProgramming'
-title: 'Kotlin KSP: Generate Extensions & DELETE Boilerplate FOREVER!'
+- instagram_3.mp4
+keywords: '#Kotlin, #SystemDesign, #KotlinTutorial, #Immutability, #SafeIO, #val,
+  #var, #KotlinTips, #Programming, #SoftwareDevelopment, #CleanCode, #RobustApps,
+  #Security, #KotlinFundamentals, #SoftwareEngineering, #AndroidDev'
+title: Kotlin's Hidden Bugs? Master `val`, `var` & Safe I/O for Security!
 twitter_videos:
 - twitter1.mp4
+- twitter2.mp4
 youtube_video: video.mp4
