@@ -29,6 +29,7 @@ description: "Practical Kotlin notes and chapters for beginners."
 - [Generate Kotlin Extensions Automatically: Harnessing KSP for Compile-Time Code Magic](generate-kotlin-extensions-automatically-harnessing-ksp-for-compile-time-code-magic.md)
 - [Building Robust, Type-Safe Operations with Kotlin Sealed Classes and `when`](building-robust-type-safe-operations-with-kotlin-sealed-classes-and-when.md)
 - [Beyond Syntax: Crafting Robust Kotlin Apps with Immutability and Safe I/O](beyond-syntax-crafting-robust-kotlin-apps-with-immutability-and-safe-i-o.md)
+- [Unlock Cleaner, More Flexible Code: A Deep Dive into Kotlin Functions](unlock-cleaner-more-flexible-code-a-deep-dive-into-kotlin-functions.md)
 
 ## Get the book
 - Amazon: [Get Preview](https://www.amazon.com/dp/B0G8H4QX2L/)

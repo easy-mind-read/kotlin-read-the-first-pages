@@ -1,25 +1,26 @@
-description: 'Tired of chasing baffling bugs and security vulnerabilities in your
-  Kotlin apps? You''re not alone. Many developers unwittingly create fragile systems
-  by overlooking the bedrock of Kotlin: mastering `val` vs `var`, leveraging immutability
-  for stable state, and implementing truly safe input/output.
-
-  In this deep dive, we''ll expose how subtle misunderstandings of Kotlin''s fundamentals
-  can lead to catastrophic failures, using a critical financial transaction system
-  as our real-world example. Discover how to build truly robust, maintainable, and
-  secure applications by mastering these essential practices. Stop guessing, start
-  building with confidence.
-
-  Ready to transform your Kotlin skills and build unbreakable systems? Grab your ultimate
-  guide, ''Beyond Syntax: Crafting Robust Kotlin Apps'', on Amazon today: https://www.amazon.com/dp/B0G8H4QX2L/'
+INSTAGRAM_MEDIA_IDS:
+- '18176858575369777'
+- '18080999012238585'
+INSTAGRAM_UPLOAD_STATUS: COMPLETED
+THREADS_MEDIA_IDS:
+- '18434044390129136'
+YOUTUBE_VIDEO_ID: TkSS2jfckEE
+YOUTUBE_VIDEO_URL: https://youtube.com/shorts/TkSS2jfckEE
+description: 'Tired of writing repetitive Kotlin code? Boilerplate for common operations,
+  logging, or serialization slows you down and introduces bugs. Discover Kotlin Symbol
+  Processing (KSP) to automatically generate custom extension functions at compile
+  time! 🚀 Streamline your codebase, boost productivity, ensure consistency, and eliminate
+  manual errors. This is how you automate Kotlin development magic! Learn to leverage
+  KSP for compile-time code generation and build cleaner, faster, and more maintainable
+  applications. Ready to master KSP and unlock its full potential? Dive deeper with
+  the ultimate guide: ''Advanced Kotlin Development'' available now on Amazon: https://www.amazon.com/dp/B0G8H4QX2L/'
 insta_videos:
 - instagram_1.mp4
 - instagram_2.mp4
-- instagram_3.mp4
-keywords: '#Kotlin #SystemDesign #Immutability #SoftwareArchitecture #CleanCode #SecureCoding
-  #ValVar #SafeIO #Programming #SoftwareDevelopment #KotlinTutorial #BestPractices
-  #DeveloperTips #Coding #Tech'
-title: Kotlin Apps Breaking? The Val/Var & Safe I/O Fix You NEED
+keywords: '#Kotlin, #KSP, #CodeGeneration, #Boilerplate, #KotlinExtensions, #CompileTime,
+  #Automation, #AndroidDev, #SoftwareDevelopment, #Programming, #CleanCode, #Productivity,
+  #SystemDesign, #DeveloperTools, #KotlinProgramming'
+title: 'Kotlin KSP: Generate Extensions & DELETE Boilerplate FOREVER!'
 twitter_videos:
 - twitter1.mp4
-- twitter2.mp4
 youtube_video: video.mp4
